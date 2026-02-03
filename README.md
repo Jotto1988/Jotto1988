@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi there, I'm Jarrit Hosking. 👋
 
-<!--
-**Jotto1988/Jotto1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder @ Forge Vertical | Lead Architect of Aurora Repair**
 
-Here are some ideas to get you started:
+I build enterprise operating systems for the automotive and logistics sectors. My focus is on vertical SaaS solutions that automate complex workflows using AI and Cloud Native architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Ventures
+
+* **[Forge Vertical](https://forgevertical.com)**: A venture studio building specific, high-value vertical software.
+* **[Aurora Repair](https://aurora-repair.com)**: AI-driven vehicle assessment platform reducing claim leakage by 40%. *Currently processing live claims in SA.* 🇿🇦
+
+---
+
+### 🛠️ The Tech Stack (Server-Side Architecture)
+I specialize in secure, scalable cloud infrastructure.
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.style=for-the-badge&logo=docker&logoColor=white)
+
+* **Core:** Node.js, TypeScript
+* **Cloud:** Google Cloud Platform (Cloud Functions, Secret Manager, Cloud Run)
+* **Database:** Firestore (NoSQL), Cloud SQL
+* **AI/ML:** Vision API, Custom OCR Models
+
+---
+
+### 🔒 Security & Compliance
+* **Data Sovereignty:** POPIA/GDPR Compliant Architecture.
+* **Security:** Server-side execution logic (No client-side exposure). Managed Secrets.
+
+---
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jarrit-hosking/)
