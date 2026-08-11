@@ -32,11 +32,34 @@ parts that matter.
 
 ## Tech Stack
 
-**Core:** Node.js, TypeScript, Python, Hono
-**Cloud:** Google Cloud Platform (Cloud Functions, Secret Manager, Cloud Run), Cloudflare
-**Database:** Firestore (NoSQL), Cloud SQL
-**AI/ML:** Vision API, Custom OCR Models
-**Payments:** PayFast integration (South African market)
+**Core**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Cloud & Infrastructure**
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Database**
+
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**AI / ML**
+
+![Vision API](https://img.shields.io/badge/Vision_API-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![OCR](https://img.shields.io/badge/Custom_OCR-000000?style=for-the-badge&logo=tesseract&logoColor=white)
+
+**Payments**
+
+![PayFast](https://img.shields.io/badge/PayFast-00A651?style=for-the-badge&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 ## Security & Practices
 
