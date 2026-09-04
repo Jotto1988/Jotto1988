@@ -1,6 +1,6 @@
 Hi there, I'm Jarrit Hosking.
 
-Founder @ Forge Vertical | Lead Architect of Aurora Repair
+Founder @ Forge Vertical | Full Stack Developer through the use of AI
 
 I build enterprise operating systems for the automotive, logistics, and hospitality
 sectors — vertical SaaS that automates complex workflows using AI and cloud-native
